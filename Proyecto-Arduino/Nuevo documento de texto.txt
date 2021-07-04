@@ -1,1 +1,1 @@
-Este proyecto suma higrometros digitales, control RTC, control DHT11, modulos de relay, pantalla tft y proximamente wifi.
+Este proyecto suma higrometros digitales, control RTC, control DHT11, modulos de relay, pantalla tft tactil, escritura de EEPROM y proximamente wifi y RTOS.
