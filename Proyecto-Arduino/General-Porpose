@@ -1,0 +1,7 @@
+This project it´s the first prototype of automation for indoor and outdoor grow. 
+It involve the control of:
+- Enviroment tempeture and humidity by checking and correct it turning on and off some devices to raise temperature or decrease humidity for example;
+- Soil humidity control by automatic check and smart irrigation; luminic control that could be set by the user in three stages with different times and dates; 
+- Touchscreen for better accesibility and comfort; 
+- EEPROM and RTC programming to avoid problems with electricity issues. 
+Coming soon, it will involve wifi functionalitys for control and monitoring with MQTT protocols and machine learning.
